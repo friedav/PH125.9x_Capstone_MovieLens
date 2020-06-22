@@ -1,8 +1,14 @@
+# PH125.9x: Capstone - MovieLens Project
+
+This repository contains FD's implementation of the MovieLens project.
+
+## Instructions (copied from course materials)
+
 Your submission for this project is three files:
-  
-  Your report in PDF format
-Your report in Rmd format
-A script in R format that generates your predicted movie ratings and RMSE score
+
+- Your report in PDF format
+- Your report in Rmd format
+- A script in R format that generates your predicted movie ratings and RMSE score
 
 You may upload the three files directly to the edX platform or submit a GitHub link in the text response box below.
 
@@ -11,9 +17,11 @@ To upload and submit your files press the "Choose Files" button, select three fi
 Note that when downloading files for peer assessments, R and Rmd files will be downloaded as txt files by default. 
 
 
-MovieLens Grading Rubric
+### MovieLens Grading Rubric
 
 The following is the grading rubric your peers will be using to evaluate your project. There are also opportunities for your peers to provide written feedback as well (required for some categories and optional for others). You are encouraged to give thoughtful, specific written feedback to your peers whenever possible (i.e., more than just "good job" or "not enough detail").
+
+
 Files (10 points possible)
 
 The appropriate files are submitted in the correct formats: a report in both PDF and Rmd format and an R script in R format.
