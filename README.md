@@ -1,6 +1,9 @@
 # PH125.9x: Capstone - MovieLens Project
 
-This repository contains FD's implementation of the MovieLens project.
+This repository contains FD's solution to the MovieLens project.
+The three files required for submission (Rmd, PDF, R) can be found in the
+`./submission` directory.  
+
 
 ## Instructions (copied from course materials)
 
